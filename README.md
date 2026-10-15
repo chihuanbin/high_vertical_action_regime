@@ -18,6 +18,8 @@ Rather than claiming the discovery of a new stellar population, this project dem
 
 The repository includes all scripts used in the paper, from the initial Gaussian-mixture decomposition to the final robustness analyses and physical interpretation.
 
+The audit/ materials document internal reproducibility and manuscript-consistency checks used during revision. Some audit text and workflow scaffolding were generated with AI-assisted tools under author supervision. Scientific quantities reported in the paper are generated from the executable analysis pipeline and machine-readable outputs, not from the audit prose itself.
+
 ---
 
 # Scientific Contributions
@@ -228,7 +230,7 @@ Huanbin Chi et al.
 
 A Vertically Enhanced Action-space Regime in Galactic Open Clusters
 
-Submitted to The Astrophysical Journal Letters
+Submitted to A&A
 ```
 
 ---
